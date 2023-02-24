@@ -10,5 +10,6 @@ I'm Henrik Hauge Bjørnskov.
 Socials
 
 * <a rel="me" href="https://mas.to/@henrikbjorn">mas.to/@henrikbjorn</a>
-* [https://twitter.com/henrikbjorn](Twitter)
-* [https://henrik.space](Personal Website)
+* [@henrikbjorn](https://twitter.com/henrikbjorn)
+* Personal (https://henrik.space)
+* Blog & TIL (https://henrik.bjrnskov.dk)
