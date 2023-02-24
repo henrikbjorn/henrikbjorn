@@ -11,4 +11,4 @@ Socials
 
 * <a rel="me" href="https://mas.to/@henrikbjorn">mas.to/@henrikbjorn</a>
 * [https://twitter.com/henrikbjorn](Twitter)
-* [https://henriks.space](Personal Website)
+* [https://henrik.space](Personal Website)
