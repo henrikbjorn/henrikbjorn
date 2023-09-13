@@ -1,12 +1,10 @@
 Hi there 👋
 ===========
 
-I'm Henrik Hauge Bjørnskov.
-
-* [Displayful](https://displayful.co) - Easily manage your office screens.
-
+I'm [Henrik Hauge Bjørnskov](https://henrik.space).
 
 Socials
+-------
 
 * <a rel="me" href="https://mas.to/@henrikbjorn">mas.to/@henrikbjorn</a>
 * [@henrikbjorn](https://twitter.com/henrikbjorn)
