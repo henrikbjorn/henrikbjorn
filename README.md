@@ -6,6 +6,6 @@ I'm Henrik Hauge Bjørnskov.
 Socials
 -------
 
-* BlueSky: [@henrik.fyi](https://bsky.app/profile/henrik.fyi)
-* X: [@henrikbjorn](https://x.com/henrikbjorn)
+* [@henrik.fyi](https://bsky.app/profile/henrik.fyi) at 🦋
+* [@henrikbjorn](https://x.com/henrikbjorn) at 𝕏
 * [Blog & Notes](https://henrik.bjrnskov.dk)
