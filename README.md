@@ -1,12 +1,11 @@
 Hi there 👋
 ===========
 
-I'm [Henrik Hauge Bjørnskov](https://henrik.space).
+I'm Henrik Hauge Bjørnskov.
 
 Socials
 -------
 
-* <a rel="me" href="https://mas.to/@henrikbjorn">mas.to/@henrikbjorn</a>
-* [@henrikbjorn](https://twitter.com/henrikbjorn)
-* [Personal](https://henrik.space)
-* [Blog & TIL](https://henrik.bjrnskov.dk)
+* BlueSky: [@henrik.fyi](https://bsky.app/profile/henrik.fyi)
+* X: [@henrikbjorn](https://x.com/henrikbjorn)
+* [Blog & Notes](https://henrik.bjrnskov.dk)
